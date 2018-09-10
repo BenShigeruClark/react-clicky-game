@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "/images/beemo.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "/images/cake.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "/images/finn.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "/images/fiona.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "/images/flamePrincess.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "/images/gunter.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "/images/iceKing.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "/images/jake.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "/images/ladyRainicorn.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "/images/lumpyPrincess.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "/images/marceline.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "/images/princessBubblegum.jpg",
+        "clicked": false
+    }
+]

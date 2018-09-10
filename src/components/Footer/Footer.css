@@ -1,0 +1,18 @@
+.footer {
+    background: rgb(255, 143, 143);
+    height: 100px;
+    position: relative;
+    color: white;
+    overflow: auto;
+}
+
+.footer > .bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgb(177, 0, 0);
+    padding: 8px;
+    font-weight: 600;
+}
+
